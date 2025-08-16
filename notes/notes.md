@@ -1,5 +1,11 @@
 ## Notes
 
-Here are some notes on specific things I have thought about. These are for personal uses only. I do not claim originality for the content of these notes.
+Here are some notes on things I have thought about, sorted by subject. 
+I feel that it is very easy to forget small things we learn in maths. 
+Sometimes it can be nuisance to track down specific statement in books, 
+so it is useful to collect them in one place.
 
-[Discrete topology and limit points](https://zihengh63.github.io/Point-set%20topology%20miscellaneous/Discrete_sets_and_limit_points.pdf)
+These are for personal uses only. 
+I do not claim originality for the content of these notes.
+
+[Point-set topology](https://zihengh63.github.io/Point-set%20topology)
