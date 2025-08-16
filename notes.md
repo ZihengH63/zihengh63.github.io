@@ -2,7 +2,7 @@
 
 Here are some notes on things I have thought about, sorted by subject. 
 I feel that it is very easy to forget small things we learn in maths. 
-Sometimes it can be nuisance to track down specific statement in books, 
+Sometimes it can be a nuisance to track down specific statements in books, 
 so it is useful to collect them in one place.
 
 These are for personal uses only. 
