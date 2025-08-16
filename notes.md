@@ -8,4 +8,4 @@ so it is useful to collect them in one place.
 These are for personal uses only. 
 I do not claim originality for the content of these notes.
 
-[Point-set topology](https://zihengh63.github.io/notes/Point-set%topology)
+[Point-set topology](https://zihengh63.github.io/notes/Point-set-topology)
