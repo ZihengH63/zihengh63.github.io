@@ -1,11 +1,12 @@
 ## Notes
 
-Here are some notes on things I have thought about, sorted by subject. 
+Here are notes on some things I have thought about, sorted by subject. 
 I feel that it is very easy to forget small things we learn in maths. 
 Sometimes it can be a nuisance to track down specific statements in books, 
 so it is useful to collect them in one place.
 
 These are for personal uses only. 
-I do not claim originality for the content of these notes.
+I do not claim originality for the content of these notes. 
+If you find any mathematical errors, please email me at ziheng.huang@warwick.ac.uk 
 
 [Point-set topology](https://zihengh63.github.io/notes/Point-set-topology)
