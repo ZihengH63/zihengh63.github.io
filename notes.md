@@ -9,4 +9,5 @@ These are for personal uses only.
 I do not claim originality for the content of these notes. 
 If you find any mathematical errors, please email me at ziheng.huang@warwick.ac.uk 
 
+[Modules](https://zihengh63.github.io/notes/Modules)
 [Point-set topology](https://zihengh63.github.io/notes/Point-set-topology)
