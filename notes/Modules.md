@@ -1,2 +1,1 @@
-[A CRITERION FOR DETECTING THE SAME
- LATTICE](https://zihengh63.github.io/notes/Modules/A_CRITERION_FOR_DETECTING_THE_SAME_LATTICE.pdf)
+[A criterion for detecting the same lattice.pdf](https://zihengh63.github.io/notes/Modules/A_criterion_for_detecting_the_same_lattice.pdf)
