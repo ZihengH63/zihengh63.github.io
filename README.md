@@ -4,6 +4,6 @@ I am currently an undergraduate at the University of Warwick studying mathematic
 
 You can reach me by email: <ziheng.huang@warwick.ac.uk>
 
-## [Writing](https://zihengh63.github.io/Writing)
+## [Writings](https://zihengh63.github.io/Writings)
 
 ## [Expository notes](https://zihengh63.github.io/Expository_notes)
