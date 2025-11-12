@@ -6,4 +6,4 @@ You can reach me by email: <ziheng.huang@warwick.ac.uk>
 
 ## [Writing](https://zihengh63.github.io/writing)
 
-## [Informal notes](https://zihengh63.github.io/informal_notes)
+## [Expository notes](https://zihengh63.github.io/expository_notes)
