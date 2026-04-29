@@ -5,6 +5,12 @@ If you find any mathematical errors, please email me at <ziheng.huang@warwick.ac
 
 ---
 
+[Torsion and complete modules over dg-algebras](https://zihengh63.github.io/Writings/Torsion_complete_over_dga.pdf)
+
+Written for the third year essay module at Warwick. Supervisor: John Greenlees.
+
+---
+
 [Conjugacy classes of full subgroups of NSp2T](https://zihengh63.github.io/Writings/NSp2T_full.pdf)
 
 Output of a summer project that took place in 2025. Supervisor: John Greenlees.
